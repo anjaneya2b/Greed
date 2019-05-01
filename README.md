@@ -1,6 +1,6 @@
 # greed
 
-Simulator for the greed game.
+Simulator for the greed dice game.
 
 https://howdoyouplayit.com/greed-rules-instructions-directions-for-the-greed-dice-game/
 
