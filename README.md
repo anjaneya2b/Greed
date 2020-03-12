@@ -1,4 +1,4 @@
-# greed
+# Greed
 
 Simulator for the greed dice game.
 
